@@ -1,0 +1,13 @@
+## Equilbrando o Saldo
+
+const saldoAtual = parseFloat(gets());
+const valorDeposito = parseFloat(gets());
+const valorRetirada = parseFloat(gets());
+
+//TODO: Calcular o saldo atualizado de acordo com a descrição deste desafio.
+
+const saldoAtualizado = saldoAtual + valorDeposito - valorRetirada;
+
+//TODO: Imprimir o a saída de conforme a tabela de exemplos (uma casa decimal).
+
+print(`Saldo atualizado na conta: ${saldoAtualizado.toFixed(1)}`);
