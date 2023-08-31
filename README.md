@@ -1,6 +1,14 @@
-# desafios
+#Desafios
+
 ## Bem-vindo ao repositório dos desafios de código do Santander Bootcamp 2023 - Fullstack Java+Angular
 
-## Equilibrando o Saldo
+🔨 Desafios em JavaScript
 
-<img src="https://a.imagem.app/bfCTKV.jpeg" alt="bfCTKV.jpeg" border="0" />
+1-Equilibrando o Saldo
+2-Organizando Seus Ativos
+3-Condicionalmente Rico
+4-Juros Compostos
+5-O grande depoisito
+
+
+
