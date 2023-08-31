@@ -4,10 +4,14 @@
 
 🔨 Desafios em JavaScript
 
-1-Equilibrando o Saldo
+1-Equilibrando o Saldo 
+
 2-Organizando Seus Ativos
+
 3-Condicionalmente Rico
+
 4-Juros Compostos
+
 5-O grande depoisito
 
 
